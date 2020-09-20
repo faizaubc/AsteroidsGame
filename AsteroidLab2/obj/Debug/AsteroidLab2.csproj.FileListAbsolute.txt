@@ -1,0 +1,11 @@
+C:\Users\ssult\Desktop\SVN\cmpe2800\AsteroidLab\AsteroidLab2\bin\Debug\AsteroidLab2.exe.config
+C:\Users\ssult\Desktop\SVN\cmpe2800\AsteroidLab\AsteroidLab2\bin\Debug\AsteroidLab2.exe
+C:\Users\ssult\Desktop\SVN\cmpe2800\AsteroidLab\AsteroidLab2\bin\Debug\AsteroidLab2.pdb
+C:\Users\ssult\Desktop\SVN\cmpe2800\AsteroidLab\AsteroidLab2\obj\Debug\AsteroidLab2.csprojAssemblyReference.cache
+C:\Users\ssult\Desktop\SVN\cmpe2800\AsteroidLab\AsteroidLab2\obj\Debug\AsteroidLab2.Form1.resources
+C:\Users\ssult\Desktop\SVN\cmpe2800\AsteroidLab\AsteroidLab2\obj\Debug\AsteroidLab2.Properties.Resources.resources
+C:\Users\ssult\Desktop\SVN\cmpe2800\AsteroidLab\AsteroidLab2\obj\Debug\AsteroidLab2.csproj.GenerateResource.cache
+C:\Users\ssult\Desktop\SVN\cmpe2800\AsteroidLab\AsteroidLab2\obj\Debug\AsteroidLab2.csproj.CoreCompileInputs.cache
+C:\Users\ssult\Desktop\SVN\cmpe2800\AsteroidLab\AsteroidLab2\obj\Debug\AsteroidLab2.exe
+C:\Users\ssult\Desktop\SVN\cmpe2800\AsteroidLab\AsteroidLab2\obj\Debug\AsteroidLab2.pdb
+C:\Users\ssult\Desktop\SVN\cmpe2800\AsteroidLab\AsteroidLab2\obj\Debug\AsteroidLab2.Size.resources
